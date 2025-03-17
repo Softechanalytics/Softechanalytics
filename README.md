@@ -1,10 +1,12 @@
 Chukwuemeka (Chuks) Isaac Anyakwu
 
 About Me
-I am a skilled Data Analyst with a strong background in transforming complex data sets into actionable insights. With experience in Oil & Gas, Supply Chain, Health, Logistics, Big Data Warehouse, and automations.
+
+I am a skilled Data Analyst with a strong background in transforming complex data sets into actionable insights. I have experience in Oil and gas, Supply Chain, Health, Logistics, Big Data Warehouse, and automation.
 I specialize in using data-driven decision-making to optimize processes and improve overall business performance.
 
 Skills
+
 Data Analysis: SQL, Excel, Tableau, Power BI
 Asset Management Tools: Service Now, Maximo, Oracle SAP
 Data Governance Tools: Collibra, Informatica, Alation Data Catalog
@@ -14,6 +16,7 @@ Experience
 For the past 15 years, I have worked for organizations such as ExxonMobil, SHELL, Nestoil Group, and Borger Group. I have supported key stakeholders by providing in-depth analysis and creating visualizations that help guide strategic decisions. With a keen eye for detail and a deep understanding of data manipulation and interpretation, I ensure that data is not just understood but leveraged to its fullest potential.
 
 Achievements
+
 Equipment Asset Management: Managed assets for Borger Groups, Canada.
 Web ERP Supply Chain Management System: Designed, developed, and hosted to production for Nestoil Group of Companies, with a project cost of $30M USD.
 Customized Database Applications: Led a team of 10 to develop applications for ExxonMobil, saving over $100M USD. Applications include Material Management Database System (MPLUS), Vessel Management System (VesselPlus), Offshore Field Estimating System (OFES), System Completion Management System (SCMPLUS), Flight Management System, Quality Management System, and Employee Management System.
@@ -27,6 +30,9 @@ Interests
 Outside of work, I am dedicated to continuous learning, staying up to date with the latest trends in data science and analytics. I enjoy spending quality time with family, solving puzzles, participating in hackathons, and contributing to open-source data projects. I am always looking for new ways to apply data in innovative ways.
 
 Contact
+
 LinkedIn: Chukwuemeka Anyakwu
+
 Email: Chuks.Isaac70@gmail.com | Chuks@softechanalytics.com
+
 Phone: +1 (403) 971-7292
