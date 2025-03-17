@@ -13,9 +13,9 @@ I use data-driven decision-making to optimize processes and improve overall busi
 <li>Agile Methodologies</li>
 <li>Business Process Model and Notation (BPMN) Tools: LucidChart, MS Visio, Bizagi</li>
 </ul>
-Experience
-For the past 15 years, I have worked for organizations such as ExxonMobil, SHELL, Nestoil Group, and Borger Group. I have supported key stakeholders by providing in-depth analysis and creating visualizations that help guide strategic decisions. With a keen eye for detail and a deep understanding of data manipulation and interpretation, I ensure that data is not just understood but leveraged to its fullest potential.
-
+<h5>Experience</h5>
+<p><em>For the past 15 years, I have worked for organizations such as ExxonMobil, SHELL, Nestoil Group, and Borger Group. I have supported key stakeholders by providing in-depth analysis and creating visualizations that help guide strategic decisions. With a keen eye for detail and a deep understanding of data manipulation and interpretation, I ensure that data is not just understood but leveraged to its fullest potential.
+</em></p>
 Achievements
 
 Equipment Asset Management: Managed assets for Borger Groups, Canada.
