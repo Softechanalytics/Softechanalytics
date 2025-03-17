@@ -33,9 +33,9 @@ Completion Management System (CMS): Set up and managed CMS database with live up
 <h3>Interests</h3>
 <p>Outside of work, I am dedicated to continuous learning, and staying up to date with the latest trends in data science and analytics. I enjoy spending quality time with family, solving puzzles, participating in hackathons, and contributing to open-source data projects. I am always looking for new ways to apply data in innovative ways.</p>
 
-<address><h3></h3>Contact</h3>
+<address><h3>Contact</h3>
 
-LinkedIn: Chukwuemeka Anyakwu
+LinkedIn: <href>https://www.linkedin.com/in/chukwuemekaanyakwu2409</href>
 
 Email: Chuks.Isaac70@gmail.com | Chuks@softechanalytics.com
 
