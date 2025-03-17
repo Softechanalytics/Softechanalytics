@@ -5,7 +5,7 @@
 <p>I am a skilled Data Analyst with a strong background in transforming complex data sets into actionable insights. I have experience in Oil and gas, Supply Chain, Health, Logistics, Big Data Warehouse, and automation.
 I specialize in using data-driven decision-making to optimize processes and improve overall business performance.</p>
 
-Skills
+<h5><em>Skills</em></h5>
 
 Data Analysis: SQL, Excel, Tableau, Power BI
 Asset Management Tools: Service Now, Maximo, Oracle SAP
