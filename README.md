@@ -19,10 +19,10 @@ I use data-driven decision-making to optimize processes and improve overall busi
 
 <h5>Achievements</h5>
 <ul>
-<l1><em>Equipment Asset Management:</em> Managed assets for Borger Groups, Canada.</l1>
-<l1><em>Web ERP Supply Chain Management System:</em> Designed, developed, and hosted to production for Nestoil Group of Companies, with a project cost of $30M USD.</l1>
-<l1><em>Customized Database Applications:</em> Led a team of 10 to develop applications for ExxonMobil, saving over USD 100M. Applications include Material Management Database System (MPLUS), Vessel Management System (VesselPlus), Offshore Field Estimating System (OFES), System Completion Management System (SCMPLUS), Flight Management System, Quality Management System, and Employee Management System.</l1>
-<l1><em>Project Completions and Handover: </em>Proven ability in leading project completions and handover activities, including the development of handover plans/strategy documents and procedures.</l1>
+<l1>Equipment Asset Management: Managed assets for Borger Groups, Canada.</l1>
+<l1>Web ERP Supply Chain Management System: Designed, developed, and hosted to production for Nestoil Group of Companies, with a project cost of $30M USD.</l1>
+<l1>Customized Database Applications: Led a team of 10 to develop applications for ExxonMobil, saving over USD 100M. Applications include Material Management Database System (MPLUS), Vessel Management System (VesselPlus), Offshore Field Estimating System (OFES), System Completion Management System (SCMPLUS), Flight Management System, Quality Management System, and Employee Management System.</l1>
+<l1><b>Project Completions and Handover: </b>Proven ability in leading project completions and handover activities, including the development of handover plans/strategy documents and procedures.</l1>
 Completion Management System (CMS): Set up and managed CMS database with live updates during project execution.</l1>
 <l1><em>Engineering Drawings/Documents:</em> Firm understanding of P&ID/PEFS, UFDS, PFDs, Gas and SLDs.</l1>
 <l1><em>Quality Controls: </em>Ensured quality controls for both MC and SC.</l1>
