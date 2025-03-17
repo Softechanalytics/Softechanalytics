@@ -1,4 +1,4 @@
-<h1>Chukwuemeka (Chuks) Isaac Anyakwu</h1>
+<h1 style="color:DogerBlue;">Chukwuemeka (Chuks) Isaac Anyakwu</h1>
 
 <h5>About Me</h5>
 
@@ -6,12 +6,13 @@
 I specialize in using data-driven decision-making to optimize processes and improve overall business performance.</p>
 
 <h5><em>Skills</em></h5>
-
+<p>
 Data Analysis: SQL, Excel, Tableau, Power BI
 Asset Management Tools: Service Now, Maximo, Oracle SAP
 Data Governance Tools: Collibra, Informatica, Alation Data Catalog
 Agile Methodologies
 Business Process Model and Notation (BPMN) Tools: LucidChart, MS Visio, Bizagi
+</p>
 Experience
 For the past 15 years, I have worked for organizations such as ExxonMobil, SHELL, Nestoil Group, and Borger Group. I have supported key stakeholders by providing in-depth analysis and creating visualizations that help guide strategic decisions. With a keen eye for detail and a deep understanding of data manipulation and interpretation, I ensure that data is not just understood but leveraged to its fullest potential.
 
