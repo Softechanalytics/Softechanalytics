@@ -1,6 +1,8 @@
 Chukwuemeka (Chuks) Isaac Anyakwu
+
 About Me
-I am a skilled Data Analyst with a strong background in transforming complex data sets into actionable insights. With experience in Oil & Gas, Supply Chain, Health, Logistics, Big Data Warehouse, and Automations, I specialize in using data-driven decision-making to optimize processes and improve overall business performance.
+I am a skilled Data Analyst with a strong background in transforming complex data sets into actionable insights. With experience in Oil & Gas, Supply Chain, Health, Logistics, Big Data Warehouse, and automations.
+I specialize in using data-driven decision-making to optimize processes and improve overall business performance.
 
 Skills
 Data Analysis: SQL, Excel, Tableau, Power BI
