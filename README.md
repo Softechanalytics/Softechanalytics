@@ -1,4 +1,4 @@
-<h1 style="color:DogerBlue;">Chukwuemeka (Chuks) Isaac Anyakwu</h1>
+<h1 style="color:DodgerBlue;">Chukwuemeka (Chuks) Isaac Anyakwu</h1>
 
 <h5>About Me</h5>
 
