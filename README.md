@@ -19,15 +19,15 @@ I use data-driven decision-making to optimize processes and improve overall busi
 
 <h5>Achievements</h5>
 <ul>
-<l1><b>Equipment Asset Management:</b> Managed assets for Borger Groups, Canada.</l1>
-<l1><b>Web ERP Supply Chain Management System:</b> Designed, developed, and hosted to production for Nestoil Group of Companies, with a project cost of $30M USD.</l1>
-<l1><b>Customized Database Applications:</b> Led a team of 10 to develop applications for ExxonMobil, saving over USD 100M. Applications include Material Management Database System (MPLUS), Vessel Management System (VesselPlus), Offshore Field Estimating System (OFES), System Completion Management System (SCMPLUS), Flight Management System, Quality Management System, and Employee Management System.</l1>
-<l1><b>Project Completions and Handover: </b>Proven ability in leading project completions and handover activities, including the development of handover plans/strategy documents and procedures.</l1>
-Completion Management System (CMS): Set up and managed CMS database with live updates during project execution.</l1>
-<l1><b>Engineering Drawings/Documents:</b> Firm understanding of P&ID/PEFS, UFDS, PFDs, Gas and SLDs.</l1>
-<l1><b>Quality Controls: </b>Ensured quality controls for both MC and SC.</l1>
-<l1><b>Health and Safety Compliance:</b> Maintained adherence to all company HSSE procedures and standards.</l1>
-<l1><b>Pipeline Experience:</b> Experience in both offshore and onshore pipeline projects.</l1>
+<li><b>Equipment Asset Management:</b> Managed assets for Borger Groups, Canada.</li>
+<li><b>Web ERP Supply Chain Management System:</b> Designed, developed, and hosted to production for Nestoil Group of Companies, with a project cost of $30M USD.</li>
+<li><b>Customized Database Applications:</b> Led a team of 10 to develop applications for ExxonMobil, saving over USD 100M. Applications include Material Management Database System (MPLUS), Vessel Management System (VesselPlus), Offshore Field Estimating System (OFES), System Completion Management System (SCMPLUS), Flight Management System, Quality Management System, and Employee Management System.</li>
+<li><b>Project Completions and Handover: </b>Proven ability in leading project completions and handover activities, including the development of handover plans/strategy documents and procedures.</li>
+Completion Management System (CMS): Set up and managed CMS database with live updates during project execution.</li>
+<li><b>Engineering Drawings/Documents:</b> Firm understanding of P&ID/PEFS, UFDS, PFDs, Gas and SLDs.</li>
+<li><b>Quality Controls: </b>Ensured quality controls for both MC and SC.</li>
+<li><b>Health and Safety Compliance:</b> Maintained adherence to all company HSSE procedures and standards.</li>
+<li><b>Pipeline Experience:</b> Experience in both offshore and onshore pipeline projects.</li>
   </ul>
   
 <h5>Interests</h5>
