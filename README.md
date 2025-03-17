@@ -1,4 +1,4 @@
-Chukwuemeka (Chuks) Isaac Anyakwu
+<b>Chukwuemeka (Chuks) Isaac Anyakwu</b>
 
 About Me
 
