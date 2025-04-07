@@ -2,25 +2,14 @@
 
 <h3>About Me</h3>
 
-<p>I am a skilled Data Analyst with a strong background in transforming complex data sets into actionable insights, With vast experience in Oil and gas, Supply Chain, Health, Logistics, Big Data Warehouse, and automation.
-I use data-driven decision-making to optimize processes and improve overall business performance.</p>
-
-<h3>Skills</h3>
-<ul>
-<li>Data Analysis: SQL, Excel, Tableau, Power BI </li>
-<li>Asset Management Tools: Service Now, Maximo, Oracle SAP</li>
-<li>Data Governance Tools: Collibra, Informatica, Alation Data Catalog</li>
-<li>Agile Methodologies</li>
-<li>Business Process Model and Notation (BPMN) Tools: LucidChart, MS Visio, Bizagi</li>
-</ul>
-<h5>Experience</h5>
-<p><em>
-  <p>Experienced Data Analyst and Power BI Developer specializing in creating insightful, interactive data visualizations and analytics solutions. 
+<p>I am an Experienced Data Analyst and Power BI Developer specializing in creating insightful, interactive data visualizations and analytics solutions. 
     Proficient in designing intuitive dashboards, streamlining data integration processes, and developing automated reporting frameworks. 
     Skilled in SQL querying, DAX formulas, data modeling, and performance optimization, I excel in turning raw data into strategic business intelligence.
   <p>I am passionate about leveraging data-driven insights to solve business challenges and enhance decision-making. Collaborative by nature, 
     I am committed to continuous learning and delivering meaningful analytics that align with organizational objectives and drive measurable results.</p>
-</em></p>
+<p> With vast experience in Oil and gas, Supply Chain, Health, Logistics, Big Data Warehouse, and automation.
+I use data-driven decision-making to optimize processes and improve overall business performance.</p>
+
 
 <h3>Technical Skill</h3>
 <ul>
@@ -32,7 +21,9 @@ I use data-driven decision-making to optimize processes and improve overall busi
 <li><b>Finance-Specific BI Solutions: : </b>Accounting, Planning, General Ledger (GL) Reporting</li>
 <li><b>ETL & Data Integration:</b> SSIS, Azure Data Factory, Power Automate.</li>
 <li><b>Performance Optimization:</b> Query Performance Tuning, Indexing, Data Partitioning.</li>
-<li><b>Data Governance & SecurityPerformance Optimization:</b> Role-Based Access Control, Data Encryptiong.</li>
+<li><b>Data Governance & SecurityPerformance Optimization:</b> Role-Based Access Control, Data Encryption, using tools such as Collibra, Informatica, Alation Data Catalog</li>
+<li>Business Process Model and Notation (BPMN) Tools: LucidChart, MS Visio, Bizagi</li>
+<li>Asset Management Tools: Service Now, Maximo, Oracle, SAP</li>
   </ul>
 
 <h3>Achievement</h3>
