@@ -13,7 +13,7 @@ I use data-driven decision-making to optimize processes and improve overall busi
 
 <h3>Technical Skill</h3>
 <ul>
-<li><e>BI & Data Visualization Tools:</e> Power BI, Tableau, Salesforce CRM, Microsoft Fabric</li>
+<li><em>BI & Data Visualization Tools:</em> Power BI, Tableau, Salesforce CRM, Microsoft Fabric</li>
 <li><b>Data Modeling & Warehousing:</b> Star Schema, Snowflake Schema, Fact & Dimension Tables </li>
 <li><b>Databases & Query Languages:</b> SQL Server, Azure Synapse, MySQL, Oracle, Workday Data Integration.</li>
 <li><b>Cloud & Big Data Technologies: </b>Microsoft Azure, Data Lakes, Azure Data Factory.</li>
