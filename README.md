@@ -14,16 +14,16 @@ I use data-driven decision-making to optimize processes and improve overall busi
 <h3>Technical Skill</h3>
 <ul>
 <li><em>BI & Data Visualization Tools:</em> Power BI, Tableau, Salesforce CRM, Microsoft Fabric</li>
-<li><b>Data Modeling & Warehousing:</b> Star Schema, Snowflake Schema, Fact & Dimension Tables </li>
-<li><b>Databases & Query Languages:</b> SQL Server, Azure Synapse, MySQL, Oracle, Workday Data Integration.</li>
-<li><b>Cloud & Big Data Technologies: </b>Microsoft Azure, Data Lakes, Azure Data Factory.</li>
-<li><b>Programming & Scripting:</b> SQL, DAX, Python (optional), Power Query.</li>
-<li><b>Finance-Specific BI Solutions: : </b>Accounting, Planning, General Ledger (GL) Reporting</li>
-<li><b>ETL & Data Integration:</b> SSIS, Azure Data Factory, Power Automate.</li>
-<li><b>Performance Optimization:</b> Query Performance Tuning, Indexing, Data Partitioning.</li>
-<li><b>Data Governance & SecurityPerformance Optimization:</b> Role-Based Access Control, Data Encryption, using tools such as Collibra, Informatica, Alation Data Catalog</li>
-<li>Business Process Model and Notation (BPMN) Tools: LucidChart, MS Visio, Bizagi</li>
-<li>Asset Management Tools: Service Now, Maximo, Oracle, SAP</li>
+<li><em>Data Modeling & Warehousing:</em> Star Schema, Snowflake Schema, Fact & Dimension Tables </li>
+<li><em>Databases & Query Languages:</em> SQL Server, Azure Synapse, MySQL, Oracle, Workday Data Integration.</li>
+<li><em>Cloud & Big Data Technologies: </em>Microsoft Azure, Data Lakes, Azure Data Factory.</li>
+<li><em>Programming & Scripting:</em> SQL, DAX, Python (optional), Power Query.</li>
+<li><em>Finance-Specific BI Solutions: </em>Accounting, Planning, General Ledger (GL) Reporting</li>
+<li><em>ETL & Data Integration:</em> SSIS, Azure Data Factory, Power Automate.</li>
+<li><em>Performance Optimization:</em> Query Performance Tuning, Indexing, Data Partitioning.</li>
+<li><em>Data Governance & SecurityPerformance Optimization:</em> Role-Based Access Control, Data Encryption, using tools such as Collibra, Informatica, Alation Data Catalog</li>
+<li><em>Business Process Model and Notation (BPMN) Tools</em>: LucidChart, MS Visio, Bizagi</li>
+<li><em>Asset Management Tools:</em>Service Now, Maximo, Oracle, SAP</li>
   </ul>
 
 <h3>Achievement</h3>
