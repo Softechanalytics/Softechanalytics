@@ -14,24 +14,39 @@ I use data-driven decision-making to optimize processes and improve overall busi
 <li>Business Process Model and Notation (BPMN) Tools: LucidChart, MS Visio, Bizagi</li>
 </ul>
 <h5>Experience</h5>
-<p><em>For the past 15 years, I have worked for organizations such as ExxonMobil, SHELL, Nestoil Group, and Borger Group. I have supported key stakeholders by providing in-depth analysis and creating visualizations that help guide strategic decisions. With a keen eye for detail and a deep understanding of data manipulation and interpretation, I ensure that data is understood and leveraged to its fullest potential.
+<p><em>
+  <p>Experienced Data Analyst and Power BI Developer specializing in creating insightful, interactive data visualizations and analytics solutions. 
+    Proficient in designing intuitive dashboards, streamlining data integration processes, and developing automated reporting frameworks. 
+    Skilled in SQL querying, DAX formulas, data modeling, and performance optimization, I excel in turning raw data into strategic business intelligence.
+  <p>I am passionate about leveraging data-driven insights to solve business challenges and enhance decision-making. Collaborative by nature, 
+    I am committed to continuous learning and delivering meaningful analytics that align with organizational objectives and drive measurable results.</p>
 </em></p>
 
-<h3>Achievements</h3>
+<h3>Technical Skill</h3>
 <ul>
-<li><b>Equipment Asset Management:</b> Managed assets for Borger Groups, Canada.</li>
-<li><b>Web ERP Supply Chain Management System:</b> Designed, developed, and hosted to production for Nestoil Group of Companies, with a project cost of $30M USD. </li>
-<li><b>Customized Database Applications:</b> Led a team of 10 to develop applications for ExxonMobil, saving over USD 100 M. Applications include Material Management Database System (MPLUS), Vessel Management System (VesselPlus), Offshore Field Estimating System (OFES), System Completion Management System (SCMPLUS), Flight Management System, Quality Management System, and Employee Management System.</li>
-<li><b>Project Completions and Handover: </b>Proven ability in leading project completions and handover activities, including the development of handover plans/strategy documents and procedures.</li>
-Completion Management System (CMS): Set up and managed CMS database with live updates during project execution.</li>
-<li><b>Engineering Drawings/Documents:</b> Firm understanding of P&ID/PEFS, UFDS, PFDs, Gas and SLDs.</li>
-<li><b>Quality Controls: </b>Ensured quality controls for both MC and SC.</li>
-<li><b>Health and Safety Compliance:</b> Maintained adherence to all company HSSE procedures and standards.</li>
-<li><b>Pipeline Experience:</b> Experience in both offshore and onshore pipeline projects.</li>
+<li><b>BI & Data Visualization Tools:</b> Power BI, Tableau, Salesforce CRM, Microsoft Fabric</li>
+<li><b>Data Modeling & Warehousing:</b> Star Schema, Snowflake Schema, Fact & Dimension Tables </li>
+<li><b>Databases & Query Languages:</b> SQL Server, Azure Synapse, MySQL, Oracle, Workday Data Integration.</li>
+<li><b>Cloud & Big Data Technologies: </b>Microsoft Azure, Data Lakes, Azure Data Factory.</li>
+<li><b>Programming & Scripting:</b> SQL, DAX, Python (optional), Power Query.</li>
+<li><b>Finance-Specific BI Solutions: : </b>Accounting, Planning, General Ledger (GL) Reporting</li>
+<li><b>ETL & Data Integration:</b> SSIS, Azure Data Factory, Power Automate.</li>
+<li><b>Performance Optimization:</b> Query Performance Tuning, Indexing, Data Partitioning.</li>
+<li><b>Data Governance & SecurityPerformance Optimization:</b> Role-Based Access Control, Data Encryptiong.</li>
+  </ul>
+
+<h3>Achievement</h3>
+<ul>
+<li><b>Equipment Asset Management System:</b> Collaborated with team and stakeholders to develop the Equipment asset management system for Borger transport.</li>
+<li><b>ERP Supply Chain Management System:</b> Design and develop the ERP Supply chain management system for Nestoil group, developing a one-stop shop for monitoring the supply chain system </li>
+<li><b>Customized Database system:</b>Develop various customized in-house database systems for ExxonMobil, using SQL Server as backend, MS-Access as front, leveraging on Azure cloud server. Saving over USD$70M for the organization in ROI based on the application development, such as Material Management system, Vessel Management System, Offshore field Estimating tools (OFES), System Completions Management System, ETC. </li>
+<li><b>Project Management Management and Handover: </b>Successfully led various Data Transformation Infrastructure Projects from conceptualization to successful handover meeting with scope, time and budget.</li>
+
   </ul>
   
 <h3>Interests</h3>
-<p>Outside of work, I am dedicated to continuous learning and staying up to date with the latest trends in data science and analytics. I enjoy spending quality time with family, solving puzzles, participating in hackathons, and contributing to open-source data projects. I am always looking for new ways to apply data in innovative ways.</p>
+<p>Outside of work, I am dedicated to continuous learning and staying updated with the latest data science and analytics trends. I enjoy spending quality time with family,
+  solving puzzles, participating in hackathons, and contributing to open-source data projects. I am always looking for new ways to apply data in innovative ways.</p>
 
 <address><h3>Contact</h3>
 
